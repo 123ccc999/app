@@ -9,12 +9,12 @@
 `app`项目致力于打造一个完整的外卖app,基于vue实现，主要包括首页、购物车、订单、我的四大板块
 
 ## 项目展示：
-https://github.com/123ccc999/test/blob/main/app-img/0.png
-https://github.com/123ccc999/test/blob/main/app-img/1.png
-https://github.com/123ccc999/test/blob/main/app-img/2.png
-https://github.com/123ccc999/test/blob/main/app-img/3.png
-https://github.com/123ccc999/test/blob/main/app-img/4.png
-https://github.com/123ccc999/test/blob/main/app-img/5.png
-https://github.com/123ccc999/test/blob/main/app-img/6.png
-https://github.com/123ccc999/test/blob/main/app-img/7.png
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/0.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/1.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/2.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/3.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/4.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/5.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/6.png" />
+<img width="390" height="830" alt="image" src="https://github.com/123ccc999/test/blob/main/app-img/7.png" />
 
